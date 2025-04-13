@@ -93,8 +93,6 @@ Returns:
 
 ### Programmatic Usage:
 ```python
-from main import FlightInfoSystem
-
 flight_support = FlightInfoSystem()
 response = flight_support.runner("What is the status of flight AI123?")
 print(response)
