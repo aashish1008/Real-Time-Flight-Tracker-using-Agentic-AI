@@ -1,0 +1,8 @@
+{
+    "AI123": {"flight_number": "AI123", "departure_time": "08:00 AM", "destination": "Delhi", "status": "Delayed"},
+    "AI456": {"flight_number": "AI456", "departure_time": "10:30 AM", "destination": "Kolkata", "status": "On Time"},
+    "SG789": {"flight_number": "SG789", "departure_time": "06:45 AM", "destination": "Hyderabad", "status": "Boarding"},
+    "EK214": {"flight_number": "EK214", "departure_time": "11:15 PM", "destination": "London", "status": "Scheduled"},
+    "QR731": {"flight_number": "QR731", "departure_time": "02:45 PM", "destination": "New York", "status": "On Time"},
+    "CX456": {"flight_number": "CX456", "departure_time": "12:00 PM", "destination": "Singapore", "status": "Cancelled"}
+}
